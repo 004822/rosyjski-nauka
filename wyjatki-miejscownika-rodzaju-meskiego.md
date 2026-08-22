@@ -10,5 +10,5 @@ Po przyimkach *в/на* akcentowaną końcówkę **-у / -ю** przyjmują:
 
 #### Praktyczne przykłady w zdaniach
 
-* `Я из Польши, но сейчас живу в Германии.` *(Jestem z Polski, ale teraz mieszkam w Niemczech.)*
+* `Книга лежит в шкафу, а кот спит на полу.` *(Książka leży w szafie, a kot śpi na podłodze.)*
 * `Мы гуляем в лесу и отдыхаем на берегу.` *(Spacerujemy w lesie i odpoczywamy na brzegu.)*

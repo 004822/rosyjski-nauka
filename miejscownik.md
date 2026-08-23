@@ -25,3 +25,4 @@ Stosowany do określania stałego miejsca przebywania po przyimkach **в** lub *
 |:--- |:--- |:--- |:--- |
 | **Куда?** *(Dokąd? - cel ruchu)* | **Biernik** | **В / НА** | `Я иду в парк.` *(Idę do parku.)* |
 | **Где?** *(Gdzie? - miejsce)* | **Miejscownik** | **В / НА** | `Я гуляю в парке.` *(Spaceruję w parku.)* |
+

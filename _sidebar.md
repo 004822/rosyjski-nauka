@@ -20,6 +20,7 @@
   * [Ubrania (Одежда)](ubrania.md)
   * [Zawody (Профессии)](zawody.md)
   * [Jedzenie i napoje (Еда и напитки)](jedzenie-i-napoje.md)
+  * [Części ciała (Части тела)](czesci-ciala.md)
 * [Inne](inne.md)
   * [Fonetyka, wymowa i zasada 7 liter](fonetyka-wymowa-i-zasada-7-liter.md)
   * [Zaimki](zaimki.md)

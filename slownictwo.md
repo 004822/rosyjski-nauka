@@ -9,3 +9,4 @@ Wybierz podrozdział z paska bocznego:
 * [Kolory (Цвета)](kolory.md)
 * [Ubrania (Одежда)](ubrania.md)
 * [Zawody (Профессии)](zawody.md)
+* [Jedzenie i napoje (Еда и напитки)](jedzenie-i-napoje.md)

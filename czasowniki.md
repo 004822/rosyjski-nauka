@@ -5,5 +5,6 @@ Przegląd odmiany czasowników, koniugacji, czasowników ruchu oraz nieregularny
 Wybież podrozdział z paska bocznego:
 
 * [Odmiana czasowników](odmiana-czasownikow.md)
+* [Czasowniki zwrotne](czasowniki-zwrotne.md)
 * [Czasowniki ruchu](czasowniki-ruchu.md)
 * [Wyjątki i czasowniki nieregularne](czasowniki-wyjatki.md)

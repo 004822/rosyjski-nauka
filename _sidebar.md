@@ -1,6 +1,7 @@
 * [Strona główna](README.md)
 * [Czasowniki](czasowniki.md)
   * [Odmiana czasowników](odmiana-czasownikow.md)
+  * [Czasowniki zwrotne](czasowniki-zwrotne.md)
   * [Czasowniki ruchu](czasowniki-ruchu.md)
   * [Wyjątki i czasowniki nieregularne](czasowniki-wyjatki.md)
 * [Przymiotniki](przymiotniki.md)
